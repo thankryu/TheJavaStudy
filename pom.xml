@@ -14,7 +14,7 @@
     <name>java8To11</name>
     <description>java8To11</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
